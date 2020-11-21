@@ -1,0 +1,12 @@
+#!/bin/bash
+./article-ids-generator.sh
+./category-ids-generator.sh
+./article-categories-generator.sh
+./edges-generator.sh
+./graph-components-generator.sh
+./finished-paths-back-noback-generator.sh
+./percentage-paths-back-noback-generator.sh
+./category-paths-generator.sh
+./category-subtree-paths-generator.sh
+./category-pairs-generator.sh
+./category-ratios-generator.sh
